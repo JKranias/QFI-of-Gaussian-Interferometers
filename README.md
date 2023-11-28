@@ -2,15 +2,15 @@
 A collection of code used to compute and optimize the quantum Fisher information (QFI) of lossy Gaussian interferometers with coherent seeding. 
 This code was made while researching and writing a paper on Nonlinear Interferometry
 
-# (C) Copyright Jasper Kranias, 2023.
-#
-# This code is licensed under the Apache License, Version 2.0. You may
-# obtain a copy of this license in the LICENSE.txt file in the root directory
-# of this source tree or at http://www.apache.org/licenses/LICENSE-2.0.
-#
-# Any modifications or derivative works of this code must retain this
-# copyright notice, and modified files need to carry a notice indicating
-# that they have been altered from the originals.
+(C) Copyright Jasper Kranias, 2023.
+
+This code is licensed under the Apache License, Version 2.0. You may
+obtain a copy of this license in the LICENSE.txt file in the root directory
+of this source tree or at http://www.apache.org/licenses/LICENSE-2.0.
+
+Any modifications or derivative works of this code must retain this
+copyright notice, and modified files need to carry a notice indicating
+that they have been altered from the originals.
 
 
 QFI Calculations.nb is a Mathematica notebook which can compute analytic expressions for the QFI of a losy Gaussian interferometer with coherent state seeding.
