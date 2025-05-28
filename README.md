@@ -13,7 +13,7 @@ copyright notice, and modified files need to carry a notice indicating
 that they have been altered from the originals.
 
 
-QFI Calculations.nb is a Mathematica notebook which can compute analytic expressions for the QFI of a losy Gaussian interferometer with coherent state seeding.
+QFI Calculations.nb is a Mathematica notebook which can compute analytic expressions for the QFI of a lossy Gaussian interferometer with coherent state seeding.
 The schemes used are Mach-Zehnder, Yurke, and Mandel, but you can use the Gaussian operations defined in the code to construct your own schemes or include loss in different places.
 
 Mandel All Modes Calculation.nb shows an example of computing the QFI where there are some problems with the calculation and you have to do some parts manually.
